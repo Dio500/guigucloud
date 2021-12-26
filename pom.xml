@@ -42,12 +42,6 @@
   <!-- 子模块继承之后，提供作用：锁定版本+子modlue不用写groupId和version  -->
   <dependencyManagement>
     <dependencies>
-      <!--远程库新加的依赖-->
-      <dependency>
-        <groupId></groupId>
-        <artifactId></artifactId>
-      </dependency>
-             
       <!--spring boot 2.2.2-->
       <dependency>
         <groupId>org.springframework.boot</groupId>
