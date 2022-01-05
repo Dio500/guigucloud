@@ -125,6 +125,5 @@
       <url>https://repo.spring.io/libs-snapshot</url>
     </pluginRepository>
   </pluginRepositories>
-
-  <!--远程库的修改-->
+         
 </project>
